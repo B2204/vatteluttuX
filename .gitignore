@@ -26,6 +26,7 @@ ocr_result*.txt
 scan_result.json
 ieee_paper_final.md
 ieee_paper_humanized.md
+PAPER/
 
 # OS files
 .DS_Store
