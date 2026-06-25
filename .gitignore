@@ -28,6 +28,12 @@ ieee_paper_final.md
 ieee_paper_humanized.md
 PAPER/
 
+# Documentation
+docs/
+VattalettuX_IEEE_Paper.docx
+VattalettuX_Presentation.pptx
+paper_content.txt
+
 # OS files
 .DS_Store
 Thumbs.db
