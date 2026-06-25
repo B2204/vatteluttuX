@@ -1,0 +1,1880 @@
+{
+  "va_001": {
+    "modern_tamil": "அ",
+    "category": "vowel",
+    "transliteration": "a",
+    "description": "Vowel அ"
+  },
+  "va_002": {
+    "modern_tamil": "ஆ",
+    "category": "vowel",
+    "transliteration": "aa",
+    "description": "Vowel ஆ"
+  },
+  "va_003": {
+    "modern_tamil": "இ",
+    "category": "vowel",
+    "transliteration": "i",
+    "description": "Vowel இ"
+  },
+  "va_004": {
+    "modern_tamil": "ஈ",
+    "category": "vowel",
+    "transliteration": "ii",
+    "description": "Vowel ஈ"
+  },
+  "va_005": {
+    "modern_tamil": "உ",
+    "category": "vowel",
+    "transliteration": "u",
+    "description": "Vowel உ"
+  },
+  "va_006": {
+    "modern_tamil": "ஊ",
+    "category": "vowel",
+    "transliteration": "uu",
+    "description": "Vowel ஊ"
+  },
+  "va_007": {
+    "modern_tamil": "எ",
+    "category": "vowel",
+    "transliteration": "e",
+    "description": "Vowel எ"
+  },
+  "va_008": {
+    "modern_tamil": "ஏ",
+    "category": "vowel",
+    "transliteration": "ee",
+    "description": "Vowel ஏ"
+  },
+  "va_009": {
+    "modern_tamil": "ஐ",
+    "category": "vowel",
+    "transliteration": "ai",
+    "description": "Vowel ஐ"
+  },
+  "va_010": {
+    "modern_tamil": "ஒ",
+    "category": "vowel",
+    "transliteration": "o",
+    "description": "Vowel ஒ"
+  },
+  "va_011": {
+    "modern_tamil": "ஓ",
+    "category": "vowel",
+    "transliteration": "oo",
+    "description": "Vowel ஓ"
+  },
+  "va_012": {
+    "modern_tamil": "ஔ",
+    "category": "vowel",
+    "transliteration": "au",
+    "description": "Vowel ஔ"
+  },
+  "va_013": {
+    "modern_tamil": "ஃ",
+    "category": "aytham",
+    "transliteration": "h",
+    "description": "Aytham (visarga)"
+  },
+  "va_014": {
+    "modern_tamil": "க்",
+    "category": "pure_consonant",
+    "transliteration": "k",
+    "description": "Pure consonant க் (with pulli)"
+  },
+  "va_015": {
+    "modern_tamil": "ங்",
+    "category": "pure_consonant",
+    "transliteration": "ng",
+    "description": "Pure consonant ங் (with pulli)"
+  },
+  "va_016": {
+    "modern_tamil": "ச்",
+    "category": "pure_consonant",
+    "transliteration": "ch",
+    "description": "Pure consonant ச் (with pulli)"
+  },
+  "va_017": {
+    "modern_tamil": "ஞ்",
+    "category": "pure_consonant",
+    "transliteration": "nj",
+    "description": "Pure consonant ஞ் (with pulli)"
+  },
+  "va_018": {
+    "modern_tamil": "ட்",
+    "category": "pure_consonant",
+    "transliteration": "t",
+    "description": "Pure consonant ட் (with pulli)"
+  },
+  "va_019": {
+    "modern_tamil": "ண்",
+    "category": "pure_consonant",
+    "transliteration": "n",
+    "description": "Pure consonant ண் (with pulli)"
+  },
+  "va_020": {
+    "modern_tamil": "த்",
+    "category": "pure_consonant",
+    "transliteration": "th",
+    "description": "Pure consonant த் (with pulli)"
+  },
+  "va_021": {
+    "modern_tamil": "ந்",
+    "category": "pure_consonant",
+    "transliteration": "nh",
+    "description": "Pure consonant ந் (with pulli)"
+  },
+  "va_022": {
+    "modern_tamil": "ப்",
+    "category": "pure_consonant",
+    "transliteration": "p",
+    "description": "Pure consonant ப் (with pulli)"
+  },
+  "va_023": {
+    "modern_tamil": "ம்",
+    "category": "pure_consonant",
+    "transliteration": "m",
+    "description": "Pure consonant ம் (with pulli)"
+  },
+  "va_024": {
+    "modern_tamil": "ய்",
+    "category": "pure_consonant",
+    "transliteration": "y",
+    "description": "Pure consonant ய் (with pulli)"
+  },
+  "va_025": {
+    "modern_tamil": "ர்",
+    "category": "pure_consonant",
+    "transliteration": "r",
+    "description": "Pure consonant ர் (with pulli)"
+  },
+  "va_026": {
+    "modern_tamil": "ல்",
+    "category": "pure_consonant",
+    "transliteration": "l",
+    "description": "Pure consonant ல் (with pulli)"
+  },
+  "va_027": {
+    "modern_tamil": "வ்",
+    "category": "pure_consonant",
+    "transliteration": "v",
+    "description": "Pure consonant வ் (with pulli)"
+  },
+  "va_028": {
+    "modern_tamil": "ழ்",
+    "category": "pure_consonant",
+    "transliteration": "zh",
+    "description": "Pure consonant ழ் (with pulli)"
+  },
+  "va_029": {
+    "modern_tamil": "ள்",
+    "category": "pure_consonant",
+    "transliteration": "l",
+    "description": "Pure consonant ள் (with pulli)"
+  },
+  "va_030": {
+    "modern_tamil": "ற்",
+    "category": "pure_consonant",
+    "transliteration": "r",
+    "description": "Pure consonant ற் (with pulli)"
+  },
+  "va_031": {
+    "modern_tamil": "ன்",
+    "category": "pure_consonant",
+    "transliteration": "n",
+    "description": "Pure consonant ன் (with pulli)"
+  },
+  "va_032": {
+    "modern_tamil": "க",
+    "category": "consonant",
+    "transliteration": "ka",
+    "description": "Consonant க (with inherent a)"
+  },
+  "va_033": {
+    "modern_tamil": "ங",
+    "category": "consonant",
+    "transliteration": "nga",
+    "description": "Consonant ங (with inherent a)"
+  },
+  "va_034": {
+    "modern_tamil": "ச",
+    "category": "consonant",
+    "transliteration": "cha",
+    "description": "Consonant ச (with inherent a)"
+  },
+  "va_035": {
+    "modern_tamil": "ஞ",
+    "category": "consonant",
+    "transliteration": "nja",
+    "description": "Consonant ஞ (with inherent a)"
+  },
+  "va_036": {
+    "modern_tamil": "ட",
+    "category": "consonant",
+    "transliteration": "ta",
+    "description": "Consonant ட (with inherent a)"
+  },
+  "va_037": {
+    "modern_tamil": "ண",
+    "category": "consonant",
+    "transliteration": "na",
+    "description": "Consonant ண (with inherent a)"
+  },
+  "va_038": {
+    "modern_tamil": "த",
+    "category": "consonant",
+    "transliteration": "tha",
+    "description": "Consonant த (with inherent a)"
+  },
+  "va_039": {
+    "modern_tamil": "ந",
+    "category": "consonant",
+    "transliteration": "nha",
+    "description": "Consonant ந (with inherent a)"
+  },
+  "va_040": {
+    "modern_tamil": "ப",
+    "category": "consonant",
+    "transliteration": "pa",
+    "description": "Consonant ப (with inherent a)"
+  },
+  "va_041": {
+    "modern_tamil": "ம",
+    "category": "consonant",
+    "transliteration": "ma",
+    "description": "Consonant ம (with inherent a)"
+  },
+  "va_042": {
+    "modern_tamil": "ய",
+    "category": "consonant",
+    "transliteration": "ya",
+    "description": "Consonant ய (with inherent a)"
+  },
+  "va_043": {
+    "modern_tamil": "ர",
+    "category": "consonant",
+    "transliteration": "ra",
+    "description": "Consonant ர (with inherent a)"
+  },
+  "va_044": {
+    "modern_tamil": "ல",
+    "category": "consonant",
+    "transliteration": "la",
+    "description": "Consonant ல (with inherent a)"
+  },
+  "va_045": {
+    "modern_tamil": "வ",
+    "category": "consonant",
+    "transliteration": "va",
+    "description": "Consonant வ (with inherent a)"
+  },
+  "va_046": {
+    "modern_tamil": "ழ",
+    "category": "consonant",
+    "transliteration": "zha",
+    "description": "Consonant ழ (with inherent a)"
+  },
+  "va_047": {
+    "modern_tamil": "ள",
+    "category": "consonant",
+    "transliteration": "la",
+    "description": "Consonant ள (with inherent a)"
+  },
+  "va_048": {
+    "modern_tamil": "ற",
+    "category": "consonant",
+    "transliteration": "ra",
+    "description": "Consonant ற (with inherent a)"
+  },
+  "va_049": {
+    "modern_tamil": "ன",
+    "category": "consonant",
+    "transliteration": "na",
+    "description": "Consonant ன (with inherent a)"
+  },
+  "va_050": {
+    "modern_tamil": "கா",
+    "category": "uyirmei",
+    "base_consonant": "க",
+    "vowel_mark": "ஆ",
+    "transliteration": "kaa",
+    "description": "க + ஆ"
+  },
+  "va_051": {
+    "modern_tamil": "கி",
+    "category": "uyirmei",
+    "base_consonant": "க",
+    "vowel_mark": "இ",
+    "transliteration": "ki",
+    "description": "க + இ"
+  },
+  "va_052": {
+    "modern_tamil": "கீ",
+    "category": "uyirmei",
+    "base_consonant": "க",
+    "vowel_mark": "ஈ",
+    "transliteration": "kii",
+    "description": "க + ஈ"
+  },
+  "va_053": {
+    "modern_tamil": "கு",
+    "category": "uyirmei",
+    "base_consonant": "க",
+    "vowel_mark": "உ",
+    "transliteration": "ku",
+    "description": "க + உ"
+  },
+  "va_054": {
+    "modern_tamil": "கூ",
+    "category": "uyirmei",
+    "base_consonant": "க",
+    "vowel_mark": "ஊ",
+    "transliteration": "kuu",
+    "description": "க + ஊ"
+  },
+  "va_055": {
+    "modern_tamil": "கெ",
+    "category": "uyirmei",
+    "base_consonant": "க",
+    "vowel_mark": "எ",
+    "transliteration": "ke",
+    "description": "க + எ"
+  },
+  "va_056": {
+    "modern_tamil": "கே",
+    "category": "uyirmei",
+    "base_consonant": "க",
+    "vowel_mark": "ஏ",
+    "transliteration": "kee",
+    "description": "க + ஏ"
+  },
+  "va_057": {
+    "modern_tamil": "கை",
+    "category": "uyirmei",
+    "base_consonant": "க",
+    "vowel_mark": "ஐ",
+    "transliteration": "kai",
+    "description": "க + ஐ"
+  },
+  "va_058": {
+    "modern_tamil": "கொ",
+    "category": "uyirmei",
+    "base_consonant": "க",
+    "vowel_mark": "ஒ",
+    "transliteration": "ko",
+    "description": "க + ஒ"
+  },
+  "va_059": {
+    "modern_tamil": "கோ",
+    "category": "uyirmei",
+    "base_consonant": "க",
+    "vowel_mark": "ஓ",
+    "transliteration": "koo",
+    "description": "க + ஓ"
+  },
+  "va_060": {
+    "modern_tamil": "கௌ",
+    "category": "uyirmei",
+    "base_consonant": "க",
+    "vowel_mark": "ஔ",
+    "transliteration": "kau",
+    "description": "க + ஔ"
+  },
+  "va_061": {
+    "modern_tamil": "ஙா",
+    "category": "uyirmei",
+    "base_consonant": "ங",
+    "vowel_mark": "ஆ",
+    "transliteration": "ngaa",
+    "description": "ங + ஆ"
+  },
+  "va_062": {
+    "modern_tamil": "ஙி",
+    "category": "uyirmei",
+    "base_consonant": "ங",
+    "vowel_mark": "இ",
+    "transliteration": "ngi",
+    "description": "ங + இ"
+  },
+  "va_063": {
+    "modern_tamil": "ஙீ",
+    "category": "uyirmei",
+    "base_consonant": "ங",
+    "vowel_mark": "ஈ",
+    "transliteration": "ngii",
+    "description": "ங + ஈ"
+  },
+  "va_064": {
+    "modern_tamil": "ஙு",
+    "category": "uyirmei",
+    "base_consonant": "ங",
+    "vowel_mark": "உ",
+    "transliteration": "ngu",
+    "description": "ங + உ"
+  },
+  "va_065": {
+    "modern_tamil": "ஙூ",
+    "category": "uyirmei",
+    "base_consonant": "ங",
+    "vowel_mark": "ஊ",
+    "transliteration": "nguu",
+    "description": "ங + ஊ"
+  },
+  "va_066": {
+    "modern_tamil": "ஙெ",
+    "category": "uyirmei",
+    "base_consonant": "ங",
+    "vowel_mark": "எ",
+    "transliteration": "nge",
+    "description": "ங + எ"
+  },
+  "va_067": {
+    "modern_tamil": "ஙே",
+    "category": "uyirmei",
+    "base_consonant": "ங",
+    "vowel_mark": "ஏ",
+    "transliteration": "ngee",
+    "description": "ங + ஏ"
+  },
+  "va_068": {
+    "modern_tamil": "ஙை",
+    "category": "uyirmei",
+    "base_consonant": "ங",
+    "vowel_mark": "ஐ",
+    "transliteration": "ngai",
+    "description": "ங + ஐ"
+  },
+  "va_069": {
+    "modern_tamil": "ஙொ",
+    "category": "uyirmei",
+    "base_consonant": "ங",
+    "vowel_mark": "ஒ",
+    "transliteration": "ngo",
+    "description": "ங + ஒ"
+  },
+  "va_070": {
+    "modern_tamil": "ஙோ",
+    "category": "uyirmei",
+    "base_consonant": "ங",
+    "vowel_mark": "ஓ",
+    "transliteration": "ngoo",
+    "description": "ங + ஓ"
+  },
+  "va_071": {
+    "modern_tamil": "ஙௌ",
+    "category": "uyirmei",
+    "base_consonant": "ங",
+    "vowel_mark": "ஔ",
+    "transliteration": "ngau",
+    "description": "ங + ஔ"
+  },
+  "va_072": {
+    "modern_tamil": "சா",
+    "category": "uyirmei",
+    "base_consonant": "ச",
+    "vowel_mark": "ஆ",
+    "transliteration": "chaa",
+    "description": "ச + ஆ"
+  },
+  "va_073": {
+    "modern_tamil": "சி",
+    "category": "uyirmei",
+    "base_consonant": "ச",
+    "vowel_mark": "இ",
+    "transliteration": "chi",
+    "description": "ச + இ"
+  },
+  "va_074": {
+    "modern_tamil": "சீ",
+    "category": "uyirmei",
+    "base_consonant": "ச",
+    "vowel_mark": "ஈ",
+    "transliteration": "chii",
+    "description": "ச + ஈ"
+  },
+  "va_075": {
+    "modern_tamil": "சு",
+    "category": "uyirmei",
+    "base_consonant": "ச",
+    "vowel_mark": "உ",
+    "transliteration": "chu",
+    "description": "ச + உ"
+  },
+  "va_076": {
+    "modern_tamil": "சூ",
+    "category": "uyirmei",
+    "base_consonant": "ச",
+    "vowel_mark": "ஊ",
+    "transliteration": "chuu",
+    "description": "ச + ஊ"
+  },
+  "va_077": {
+    "modern_tamil": "செ",
+    "category": "uyirmei",
+    "base_consonant": "ச",
+    "vowel_mark": "எ",
+    "transliteration": "che",
+    "description": "ச + எ"
+  },
+  "va_078": {
+    "modern_tamil": "சே",
+    "category": "uyirmei",
+    "base_consonant": "ச",
+    "vowel_mark": "ஏ",
+    "transliteration": "chee",
+    "description": "ச + ஏ"
+  },
+  "va_079": {
+    "modern_tamil": "சை",
+    "category": "uyirmei",
+    "base_consonant": "ச",
+    "vowel_mark": "ஐ",
+    "transliteration": "chai",
+    "description": "ச + ஐ"
+  },
+  "va_080": {
+    "modern_tamil": "சொ",
+    "category": "uyirmei",
+    "base_consonant": "ச",
+    "vowel_mark": "ஒ",
+    "transliteration": "cho",
+    "description": "ச + ஒ"
+  },
+  "va_081": {
+    "modern_tamil": "சோ",
+    "category": "uyirmei",
+    "base_consonant": "ச",
+    "vowel_mark": "ஓ",
+    "transliteration": "choo",
+    "description": "ச + ஓ"
+  },
+  "va_082": {
+    "modern_tamil": "சௌ",
+    "category": "uyirmei",
+    "base_consonant": "ச",
+    "vowel_mark": "ஔ",
+    "transliteration": "chau",
+    "description": "ச + ஔ"
+  },
+  "va_083": {
+    "modern_tamil": "ஞா",
+    "category": "uyirmei",
+    "base_consonant": "ஞ",
+    "vowel_mark": "ஆ",
+    "transliteration": "njaa",
+    "description": "ஞ + ஆ"
+  },
+  "va_084": {
+    "modern_tamil": "ஞி",
+    "category": "uyirmei",
+    "base_consonant": "ஞ",
+    "vowel_mark": "இ",
+    "transliteration": "nji",
+    "description": "ஞ + இ"
+  },
+  "va_085": {
+    "modern_tamil": "ஞீ",
+    "category": "uyirmei",
+    "base_consonant": "ஞ",
+    "vowel_mark": "ஈ",
+    "transliteration": "njii",
+    "description": "ஞ + ஈ"
+  },
+  "va_086": {
+    "modern_tamil": "ஞு",
+    "category": "uyirmei",
+    "base_consonant": "ஞ",
+    "vowel_mark": "உ",
+    "transliteration": "nju",
+    "description": "ஞ + உ"
+  },
+  "va_087": {
+    "modern_tamil": "ஞூ",
+    "category": "uyirmei",
+    "base_consonant": "ஞ",
+    "vowel_mark": "ஊ",
+    "transliteration": "njuu",
+    "description": "ஞ + ஊ"
+  },
+  "va_088": {
+    "modern_tamil": "ஞெ",
+    "category": "uyirmei",
+    "base_consonant": "ஞ",
+    "vowel_mark": "எ",
+    "transliteration": "nje",
+    "description": "ஞ + எ"
+  },
+  "va_089": {
+    "modern_tamil": "ஞே",
+    "category": "uyirmei",
+    "base_consonant": "ஞ",
+    "vowel_mark": "ஏ",
+    "transliteration": "njee",
+    "description": "ஞ + ஏ"
+  },
+  "va_090": {
+    "modern_tamil": "ஞை",
+    "category": "uyirmei",
+    "base_consonant": "ஞ",
+    "vowel_mark": "ஐ",
+    "transliteration": "njai",
+    "description": "ஞ + ஐ"
+  },
+  "va_091": {
+    "modern_tamil": "ஞொ",
+    "category": "uyirmei",
+    "base_consonant": "ஞ",
+    "vowel_mark": "ஒ",
+    "transliteration": "njo",
+    "description": "ஞ + ஒ"
+  },
+  "va_092": {
+    "modern_tamil": "ஞோ",
+    "category": "uyirmei",
+    "base_consonant": "ஞ",
+    "vowel_mark": "ஓ",
+    "transliteration": "njoo",
+    "description": "ஞ + ஓ"
+  },
+  "va_093": {
+    "modern_tamil": "ஞௌ",
+    "category": "uyirmei",
+    "base_consonant": "ஞ",
+    "vowel_mark": "ஔ",
+    "transliteration": "njau",
+    "description": "ஞ + ஔ"
+  },
+  "va_094": {
+    "modern_tamil": "டா",
+    "category": "uyirmei",
+    "base_consonant": "ட",
+    "vowel_mark": "ஆ",
+    "transliteration": "taa",
+    "description": "ட + ஆ"
+  },
+  "va_095": {
+    "modern_tamil": "டி",
+    "category": "uyirmei",
+    "base_consonant": "ட",
+    "vowel_mark": "இ",
+    "transliteration": "ti",
+    "description": "ட + இ"
+  },
+  "va_096": {
+    "modern_tamil": "டீ",
+    "category": "uyirmei",
+    "base_consonant": "ட",
+    "vowel_mark": "ஈ",
+    "transliteration": "tii",
+    "description": "ட + ஈ"
+  },
+  "va_097": {
+    "modern_tamil": "டு",
+    "category": "uyirmei",
+    "base_consonant": "ட",
+    "vowel_mark": "உ",
+    "transliteration": "tu",
+    "description": "ட + உ"
+  },
+  "va_098": {
+    "modern_tamil": "டூ",
+    "category": "uyirmei",
+    "base_consonant": "ட",
+    "vowel_mark": "ஊ",
+    "transliteration": "tuu",
+    "description": "ட + ஊ"
+  },
+  "va_099": {
+    "modern_tamil": "டெ",
+    "category": "uyirmei",
+    "base_consonant": "ட",
+    "vowel_mark": "எ",
+    "transliteration": "te",
+    "description": "ட + எ"
+  },
+  "va_100": {
+    "modern_tamil": "டே",
+    "category": "uyirmei",
+    "base_consonant": "ட",
+    "vowel_mark": "ஏ",
+    "transliteration": "tee",
+    "description": "ட + ஏ"
+  },
+  "va_101": {
+    "modern_tamil": "டை",
+    "category": "uyirmei",
+    "base_consonant": "ட",
+    "vowel_mark": "ஐ",
+    "transliteration": "tai",
+    "description": "ட + ஐ"
+  },
+  "va_102": {
+    "modern_tamil": "டொ",
+    "category": "uyirmei",
+    "base_consonant": "ட",
+    "vowel_mark": "ஒ",
+    "transliteration": "to",
+    "description": "ட + ஒ"
+  },
+  "va_103": {
+    "modern_tamil": "டோ",
+    "category": "uyirmei",
+    "base_consonant": "ட",
+    "vowel_mark": "ஓ",
+    "transliteration": "too",
+    "description": "ட + ஓ"
+  },
+  "va_104": {
+    "modern_tamil": "டௌ",
+    "category": "uyirmei",
+    "base_consonant": "ட",
+    "vowel_mark": "ஔ",
+    "transliteration": "tau",
+    "description": "ட + ஔ"
+  },
+  "va_105": {
+    "modern_tamil": "ணா",
+    "category": "uyirmei",
+    "base_consonant": "ண",
+    "vowel_mark": "ஆ",
+    "transliteration": "naa",
+    "description": "ண + ஆ"
+  },
+  "va_106": {
+    "modern_tamil": "ணி",
+    "category": "uyirmei",
+    "base_consonant": "ண",
+    "vowel_mark": "இ",
+    "transliteration": "ni",
+    "description": "ண + இ"
+  },
+  "va_107": {
+    "modern_tamil": "ணீ",
+    "category": "uyirmei",
+    "base_consonant": "ண",
+    "vowel_mark": "ஈ",
+    "transliteration": "nii",
+    "description": "ண + ஈ"
+  },
+  "va_108": {
+    "modern_tamil": "ணு",
+    "category": "uyirmei",
+    "base_consonant": "ண",
+    "vowel_mark": "உ",
+    "transliteration": "nu",
+    "description": "ண + உ"
+  },
+  "va_109": {
+    "modern_tamil": "ணூ",
+    "category": "uyirmei",
+    "base_consonant": "ண",
+    "vowel_mark": "ஊ",
+    "transliteration": "nuu",
+    "description": "ண + ஊ"
+  },
+  "va_110": {
+    "modern_tamil": "ணெ",
+    "category": "uyirmei",
+    "base_consonant": "ண",
+    "vowel_mark": "எ",
+    "transliteration": "ne",
+    "description": "ண + எ"
+  },
+  "va_111": {
+    "modern_tamil": "ணே",
+    "category": "uyirmei",
+    "base_consonant": "ண",
+    "vowel_mark": "ஏ",
+    "transliteration": "nee",
+    "description": "ண + ஏ"
+  },
+  "va_112": {
+    "modern_tamil": "ணை",
+    "category": "uyirmei",
+    "base_consonant": "ண",
+    "vowel_mark": "ஐ",
+    "transliteration": "nai",
+    "description": "ண + ஐ"
+  },
+  "va_113": {
+    "modern_tamil": "ணொ",
+    "category": "uyirmei",
+    "base_consonant": "ண",
+    "vowel_mark": "ஒ",
+    "transliteration": "no",
+    "description": "ண + ஒ"
+  },
+  "va_114": {
+    "modern_tamil": "ணோ",
+    "category": "uyirmei",
+    "base_consonant": "ண",
+    "vowel_mark": "ஓ",
+    "transliteration": "noo",
+    "description": "ண + ஓ"
+  },
+  "va_115": {
+    "modern_tamil": "ணௌ",
+    "category": "uyirmei",
+    "base_consonant": "ண",
+    "vowel_mark": "ஔ",
+    "transliteration": "nau",
+    "description": "ண + ஔ"
+  },
+  "va_116": {
+    "modern_tamil": "தா",
+    "category": "uyirmei",
+    "base_consonant": "த",
+    "vowel_mark": "ஆ",
+    "transliteration": "thaa",
+    "description": "த + ஆ"
+  },
+  "va_117": {
+    "modern_tamil": "தி",
+    "category": "uyirmei",
+    "base_consonant": "த",
+    "vowel_mark": "இ",
+    "transliteration": "thi",
+    "description": "த + இ"
+  },
+  "va_118": {
+    "modern_tamil": "தீ",
+    "category": "uyirmei",
+    "base_consonant": "த",
+    "vowel_mark": "ஈ",
+    "transliteration": "thii",
+    "description": "த + ஈ"
+  },
+  "va_119": {
+    "modern_tamil": "து",
+    "category": "uyirmei",
+    "base_consonant": "த",
+    "vowel_mark": "உ",
+    "transliteration": "thu",
+    "description": "த + உ"
+  },
+  "va_120": {
+    "modern_tamil": "தூ",
+    "category": "uyirmei",
+    "base_consonant": "த",
+    "vowel_mark": "ஊ",
+    "transliteration": "thuu",
+    "description": "த + ஊ"
+  },
+  "va_121": {
+    "modern_tamil": "தெ",
+    "category": "uyirmei",
+    "base_consonant": "த",
+    "vowel_mark": "எ",
+    "transliteration": "the",
+    "description": "த + எ"
+  },
+  "va_122": {
+    "modern_tamil": "தே",
+    "category": "uyirmei",
+    "base_consonant": "த",
+    "vowel_mark": "ஏ",
+    "transliteration": "thee",
+    "description": "த + ஏ"
+  },
+  "va_123": {
+    "modern_tamil": "தை",
+    "category": "uyirmei",
+    "base_consonant": "த",
+    "vowel_mark": "ஐ",
+    "transliteration": "thai",
+    "description": "த + ஐ"
+  },
+  "va_124": {
+    "modern_tamil": "தொ",
+    "category": "uyirmei",
+    "base_consonant": "த",
+    "vowel_mark": "ஒ",
+    "transliteration": "tho",
+    "description": "த + ஒ"
+  },
+  "va_125": {
+    "modern_tamil": "தோ",
+    "category": "uyirmei",
+    "base_consonant": "த",
+    "vowel_mark": "ஓ",
+    "transliteration": "thoo",
+    "description": "த + ஓ"
+  },
+  "va_126": {
+    "modern_tamil": "தௌ",
+    "category": "uyirmei",
+    "base_consonant": "த",
+    "vowel_mark": "ஔ",
+    "transliteration": "thau",
+    "description": "த + ஔ"
+  },
+  "va_127": {
+    "modern_tamil": "நா",
+    "category": "uyirmei",
+    "base_consonant": "ந",
+    "vowel_mark": "ஆ",
+    "transliteration": "nhaa",
+    "description": "ந + ஆ"
+  },
+  "va_128": {
+    "modern_tamil": "நி",
+    "category": "uyirmei",
+    "base_consonant": "ந",
+    "vowel_mark": "இ",
+    "transliteration": "nhi",
+    "description": "ந + இ"
+  },
+  "va_129": {
+    "modern_tamil": "நீ",
+    "category": "uyirmei",
+    "base_consonant": "ந",
+    "vowel_mark": "ஈ",
+    "transliteration": "nhii",
+    "description": "ந + ஈ"
+  },
+  "va_130": {
+    "modern_tamil": "நு",
+    "category": "uyirmei",
+    "base_consonant": "ந",
+    "vowel_mark": "உ",
+    "transliteration": "nhu",
+    "description": "ந + உ"
+  },
+  "va_131": {
+    "modern_tamil": "நூ",
+    "category": "uyirmei",
+    "base_consonant": "ந",
+    "vowel_mark": "ஊ",
+    "transliteration": "nhuu",
+    "description": "ந + ஊ"
+  },
+  "va_132": {
+    "modern_tamil": "நெ",
+    "category": "uyirmei",
+    "base_consonant": "ந",
+    "vowel_mark": "எ",
+    "transliteration": "nhe",
+    "description": "ந + எ"
+  },
+  "va_133": {
+    "modern_tamil": "நே",
+    "category": "uyirmei",
+    "base_consonant": "ந",
+    "vowel_mark": "ஏ",
+    "transliteration": "nhee",
+    "description": "ந + ஏ"
+  },
+  "va_134": {
+    "modern_tamil": "நை",
+    "category": "uyirmei",
+    "base_consonant": "ந",
+    "vowel_mark": "ஐ",
+    "transliteration": "nhai",
+    "description": "ந + ஐ"
+  },
+  "va_135": {
+    "modern_tamil": "நொ",
+    "category": "uyirmei",
+    "base_consonant": "ந",
+    "vowel_mark": "ஒ",
+    "transliteration": "nho",
+    "description": "ந + ஒ"
+  },
+  "va_136": {
+    "modern_tamil": "நோ",
+    "category": "uyirmei",
+    "base_consonant": "ந",
+    "vowel_mark": "ஓ",
+    "transliteration": "nhoo",
+    "description": "ந + ஓ"
+  },
+  "va_137": {
+    "modern_tamil": "நௌ",
+    "category": "uyirmei",
+    "base_consonant": "ந",
+    "vowel_mark": "ஔ",
+    "transliteration": "nhau",
+    "description": "ந + ஔ"
+  },
+  "va_138": {
+    "modern_tamil": "பா",
+    "category": "uyirmei",
+    "base_consonant": "ப",
+    "vowel_mark": "ஆ",
+    "transliteration": "paa",
+    "description": "ப + ஆ"
+  },
+  "va_139": {
+    "modern_tamil": "பி",
+    "category": "uyirmei",
+    "base_consonant": "ப",
+    "vowel_mark": "இ",
+    "transliteration": "pi",
+    "description": "ப + இ"
+  },
+  "va_140": {
+    "modern_tamil": "பீ",
+    "category": "uyirmei",
+    "base_consonant": "ப",
+    "vowel_mark": "ஈ",
+    "transliteration": "pii",
+    "description": "ப + ஈ"
+  },
+  "va_141": {
+    "modern_tamil": "பு",
+    "category": "uyirmei",
+    "base_consonant": "ப",
+    "vowel_mark": "உ",
+    "transliteration": "pu",
+    "description": "ப + உ"
+  },
+  "va_142": {
+    "modern_tamil": "பூ",
+    "category": "uyirmei",
+    "base_consonant": "ப",
+    "vowel_mark": "ஊ",
+    "transliteration": "puu",
+    "description": "ப + ஊ"
+  },
+  "va_143": {
+    "modern_tamil": "பெ",
+    "category": "uyirmei",
+    "base_consonant": "ப",
+    "vowel_mark": "எ",
+    "transliteration": "pe",
+    "description": "ப + எ"
+  },
+  "va_144": {
+    "modern_tamil": "பே",
+    "category": "uyirmei",
+    "base_consonant": "ப",
+    "vowel_mark": "ஏ",
+    "transliteration": "pee",
+    "description": "ப + ஏ"
+  },
+  "va_145": {
+    "modern_tamil": "பை",
+    "category": "uyirmei",
+    "base_consonant": "ப",
+    "vowel_mark": "ஐ",
+    "transliteration": "pai",
+    "description": "ப + ஐ"
+  },
+  "va_146": {
+    "modern_tamil": "பொ",
+    "category": "uyirmei",
+    "base_consonant": "ப",
+    "vowel_mark": "ஒ",
+    "transliteration": "po",
+    "description": "ப + ஒ"
+  },
+  "va_147": {
+    "modern_tamil": "போ",
+    "category": "uyirmei",
+    "base_consonant": "ப",
+    "vowel_mark": "ஓ",
+    "transliteration": "poo",
+    "description": "ப + ஓ"
+  },
+  "va_148": {
+    "modern_tamil": "பௌ",
+    "category": "uyirmei",
+    "base_consonant": "ப",
+    "vowel_mark": "ஔ",
+    "transliteration": "pau",
+    "description": "ப + ஔ"
+  },
+  "va_149": {
+    "modern_tamil": "மா",
+    "category": "uyirmei",
+    "base_consonant": "ம",
+    "vowel_mark": "ஆ",
+    "transliteration": "maa",
+    "description": "ம + ஆ"
+  },
+  "va_150": {
+    "modern_tamil": "மி",
+    "category": "uyirmei",
+    "base_consonant": "ம",
+    "vowel_mark": "இ",
+    "transliteration": "mi",
+    "description": "ம + இ"
+  },
+  "va_151": {
+    "modern_tamil": "மீ",
+    "category": "uyirmei",
+    "base_consonant": "ம",
+    "vowel_mark": "ஈ",
+    "transliteration": "mii",
+    "description": "ம + ஈ"
+  },
+  "va_152": {
+    "modern_tamil": "மு",
+    "category": "uyirmei",
+    "base_consonant": "ம",
+    "vowel_mark": "உ",
+    "transliteration": "mu",
+    "description": "ம + உ"
+  },
+  "va_153": {
+    "modern_tamil": "மூ",
+    "category": "uyirmei",
+    "base_consonant": "ம",
+    "vowel_mark": "ஊ",
+    "transliteration": "muu",
+    "description": "ம + ஊ"
+  },
+  "va_154": {
+    "modern_tamil": "மெ",
+    "category": "uyirmei",
+    "base_consonant": "ம",
+    "vowel_mark": "எ",
+    "transliteration": "me",
+    "description": "ம + எ"
+  },
+  "va_155": {
+    "modern_tamil": "மே",
+    "category": "uyirmei",
+    "base_consonant": "ம",
+    "vowel_mark": "ஏ",
+    "transliteration": "mee",
+    "description": "ம + ஏ"
+  },
+  "va_156": {
+    "modern_tamil": "மை",
+    "category": "uyirmei",
+    "base_consonant": "ம",
+    "vowel_mark": "ஐ",
+    "transliteration": "mai",
+    "description": "ம + ஐ"
+  },
+  "va_157": {
+    "modern_tamil": "மொ",
+    "category": "uyirmei",
+    "base_consonant": "ம",
+    "vowel_mark": "ஒ",
+    "transliteration": "mo",
+    "description": "ம + ஒ"
+  },
+  "va_158": {
+    "modern_tamil": "மோ",
+    "category": "uyirmei",
+    "base_consonant": "ம",
+    "vowel_mark": "ஓ",
+    "transliteration": "moo",
+    "description": "ம + ஓ"
+  },
+  "va_159": {
+    "modern_tamil": "மௌ",
+    "category": "uyirmei",
+    "base_consonant": "ம",
+    "vowel_mark": "ஔ",
+    "transliteration": "mau",
+    "description": "ம + ஔ"
+  },
+  "va_160": {
+    "modern_tamil": "யா",
+    "category": "uyirmei",
+    "base_consonant": "ய",
+    "vowel_mark": "ஆ",
+    "transliteration": "yaa",
+    "description": "ய + ஆ"
+  },
+  "va_161": {
+    "modern_tamil": "யி",
+    "category": "uyirmei",
+    "base_consonant": "ய",
+    "vowel_mark": "இ",
+    "transliteration": "yi",
+    "description": "ய + இ"
+  },
+  "va_162": {
+    "modern_tamil": "யீ",
+    "category": "uyirmei",
+    "base_consonant": "ய",
+    "vowel_mark": "ஈ",
+    "transliteration": "yii",
+    "description": "ய + ஈ"
+  },
+  "va_163": {
+    "modern_tamil": "யு",
+    "category": "uyirmei",
+    "base_consonant": "ய",
+    "vowel_mark": "உ",
+    "transliteration": "yu",
+    "description": "ய + உ"
+  },
+  "va_164": {
+    "modern_tamil": "யூ",
+    "category": "uyirmei",
+    "base_consonant": "ய",
+    "vowel_mark": "ஊ",
+    "transliteration": "yuu",
+    "description": "ய + ஊ"
+  },
+  "va_165": {
+    "modern_tamil": "யெ",
+    "category": "uyirmei",
+    "base_consonant": "ய",
+    "vowel_mark": "எ",
+    "transliteration": "ye",
+    "description": "ய + எ"
+  },
+  "va_166": {
+    "modern_tamil": "யே",
+    "category": "uyirmei",
+    "base_consonant": "ய",
+    "vowel_mark": "ஏ",
+    "transliteration": "yee",
+    "description": "ய + ஏ"
+  },
+  "va_167": {
+    "modern_tamil": "யை",
+    "category": "uyirmei",
+    "base_consonant": "ய",
+    "vowel_mark": "ஐ",
+    "transliteration": "yai",
+    "description": "ய + ஐ"
+  },
+  "va_168": {
+    "modern_tamil": "யொ",
+    "category": "uyirmei",
+    "base_consonant": "ய",
+    "vowel_mark": "ஒ",
+    "transliteration": "yo",
+    "description": "ய + ஒ"
+  },
+  "va_169": {
+    "modern_tamil": "யோ",
+    "category": "uyirmei",
+    "base_consonant": "ய",
+    "vowel_mark": "ஓ",
+    "transliteration": "yoo",
+    "description": "ய + ஓ"
+  },
+  "va_170": {
+    "modern_tamil": "யௌ",
+    "category": "uyirmei",
+    "base_consonant": "ய",
+    "vowel_mark": "ஔ",
+    "transliteration": "yau",
+    "description": "ய + ஔ"
+  },
+  "va_171": {
+    "modern_tamil": "ரா",
+    "category": "uyirmei",
+    "base_consonant": "ர",
+    "vowel_mark": "ஆ",
+    "transliteration": "raa",
+    "description": "ர + ஆ"
+  },
+  "va_172": {
+    "modern_tamil": "ரி",
+    "category": "uyirmei",
+    "base_consonant": "ர",
+    "vowel_mark": "இ",
+    "transliteration": "ri",
+    "description": "ர + இ"
+  },
+  "va_173": {
+    "modern_tamil": "ரீ",
+    "category": "uyirmei",
+    "base_consonant": "ர",
+    "vowel_mark": "ஈ",
+    "transliteration": "rii",
+    "description": "ர + ஈ"
+  },
+  "va_174": {
+    "modern_tamil": "ரு",
+    "category": "uyirmei",
+    "base_consonant": "ர",
+    "vowel_mark": "உ",
+    "transliteration": "ru",
+    "description": "ர + உ"
+  },
+  "va_175": {
+    "modern_tamil": "ரூ",
+    "category": "uyirmei",
+    "base_consonant": "ர",
+    "vowel_mark": "ஊ",
+    "transliteration": "ruu",
+    "description": "ர + ஊ"
+  },
+  "va_176": {
+    "modern_tamil": "ரெ",
+    "category": "uyirmei",
+    "base_consonant": "ர",
+    "vowel_mark": "எ",
+    "transliteration": "re",
+    "description": "ர + எ"
+  },
+  "va_177": {
+    "modern_tamil": "ரே",
+    "category": "uyirmei",
+    "base_consonant": "ர",
+    "vowel_mark": "ஏ",
+    "transliteration": "ree",
+    "description": "ர + ஏ"
+  },
+  "va_178": {
+    "modern_tamil": "ரை",
+    "category": "uyirmei",
+    "base_consonant": "ர",
+    "vowel_mark": "ஐ",
+    "transliteration": "rai",
+    "description": "ர + ஐ"
+  },
+  "va_179": {
+    "modern_tamil": "ரொ",
+    "category": "uyirmei",
+    "base_consonant": "ர",
+    "vowel_mark": "ஒ",
+    "transliteration": "ro",
+    "description": "ர + ஒ"
+  },
+  "va_180": {
+    "modern_tamil": "ரோ",
+    "category": "uyirmei",
+    "base_consonant": "ர",
+    "vowel_mark": "ஓ",
+    "transliteration": "roo",
+    "description": "ர + ஓ"
+  },
+  "va_181": {
+    "modern_tamil": "ரௌ",
+    "category": "uyirmei",
+    "base_consonant": "ர",
+    "vowel_mark": "ஔ",
+    "transliteration": "rau",
+    "description": "ர + ஔ"
+  },
+  "va_182": {
+    "modern_tamil": "லா",
+    "category": "uyirmei",
+    "base_consonant": "ல",
+    "vowel_mark": "ஆ",
+    "transliteration": "laa",
+    "description": "ல + ஆ"
+  },
+  "va_183": {
+    "modern_tamil": "லி",
+    "category": "uyirmei",
+    "base_consonant": "ல",
+    "vowel_mark": "இ",
+    "transliteration": "li",
+    "description": "ல + இ"
+  },
+  "va_184": {
+    "modern_tamil": "லீ",
+    "category": "uyirmei",
+    "base_consonant": "ல",
+    "vowel_mark": "ஈ",
+    "transliteration": "lii",
+    "description": "ல + ஈ"
+  },
+  "va_185": {
+    "modern_tamil": "லு",
+    "category": "uyirmei",
+    "base_consonant": "ல",
+    "vowel_mark": "உ",
+    "transliteration": "lu",
+    "description": "ல + உ"
+  },
+  "va_186": {
+    "modern_tamil": "லூ",
+    "category": "uyirmei",
+    "base_consonant": "ல",
+    "vowel_mark": "ஊ",
+    "transliteration": "luu",
+    "description": "ல + ஊ"
+  },
+  "va_187": {
+    "modern_tamil": "லெ",
+    "category": "uyirmei",
+    "base_consonant": "ல",
+    "vowel_mark": "எ",
+    "transliteration": "le",
+    "description": "ல + எ"
+  },
+  "va_188": {
+    "modern_tamil": "லே",
+    "category": "uyirmei",
+    "base_consonant": "ல",
+    "vowel_mark": "ஏ",
+    "transliteration": "lee",
+    "description": "ல + ஏ"
+  },
+  "va_189": {
+    "modern_tamil": "லை",
+    "category": "uyirmei",
+    "base_consonant": "ல",
+    "vowel_mark": "ஐ",
+    "transliteration": "lai",
+    "description": "ல + ஐ"
+  },
+  "va_190": {
+    "modern_tamil": "லொ",
+    "category": "uyirmei",
+    "base_consonant": "ல",
+    "vowel_mark": "ஒ",
+    "transliteration": "lo",
+    "description": "ல + ஒ"
+  },
+  "va_191": {
+    "modern_tamil": "லோ",
+    "category": "uyirmei",
+    "base_consonant": "ல",
+    "vowel_mark": "ஓ",
+    "transliteration": "loo",
+    "description": "ல + ஓ"
+  },
+  "va_192": {
+    "modern_tamil": "லௌ",
+    "category": "uyirmei",
+    "base_consonant": "ல",
+    "vowel_mark": "ஔ",
+    "transliteration": "lau",
+    "description": "ல + ஔ"
+  },
+  "va_193": {
+    "modern_tamil": "வா",
+    "category": "uyirmei",
+    "base_consonant": "வ",
+    "vowel_mark": "ஆ",
+    "transliteration": "vaa",
+    "description": "வ + ஆ"
+  },
+  "va_194": {
+    "modern_tamil": "வி",
+    "category": "uyirmei",
+    "base_consonant": "வ",
+    "vowel_mark": "இ",
+    "transliteration": "vi",
+    "description": "வ + இ"
+  },
+  "va_195": {
+    "modern_tamil": "வீ",
+    "category": "uyirmei",
+    "base_consonant": "வ",
+    "vowel_mark": "ஈ",
+    "transliteration": "vii",
+    "description": "வ + ஈ"
+  },
+  "va_196": {
+    "modern_tamil": "வு",
+    "category": "uyirmei",
+    "base_consonant": "வ",
+    "vowel_mark": "உ",
+    "transliteration": "vu",
+    "description": "வ + உ"
+  },
+  "va_197": {
+    "modern_tamil": "வூ",
+    "category": "uyirmei",
+    "base_consonant": "வ",
+    "vowel_mark": "ஊ",
+    "transliteration": "vuu",
+    "description": "வ + ஊ"
+  },
+  "va_198": {
+    "modern_tamil": "வெ",
+    "category": "uyirmei",
+    "base_consonant": "வ",
+    "vowel_mark": "எ",
+    "transliteration": "ve",
+    "description": "வ + எ"
+  },
+  "va_199": {
+    "modern_tamil": "வே",
+    "category": "uyirmei",
+    "base_consonant": "வ",
+    "vowel_mark": "ஏ",
+    "transliteration": "vee",
+    "description": "வ + ஏ"
+  },
+  "va_200": {
+    "modern_tamil": "வை",
+    "category": "uyirmei",
+    "base_consonant": "வ",
+    "vowel_mark": "ஐ",
+    "transliteration": "vai",
+    "description": "வ + ஐ"
+  },
+  "va_201": {
+    "modern_tamil": "வொ",
+    "category": "uyirmei",
+    "base_consonant": "வ",
+    "vowel_mark": "ஒ",
+    "transliteration": "vo",
+    "description": "வ + ஒ"
+  },
+  "va_202": {
+    "modern_tamil": "வோ",
+    "category": "uyirmei",
+    "base_consonant": "வ",
+    "vowel_mark": "ஓ",
+    "transliteration": "voo",
+    "description": "வ + ஓ"
+  },
+  "va_203": {
+    "modern_tamil": "வௌ",
+    "category": "uyirmei",
+    "base_consonant": "வ",
+    "vowel_mark": "ஔ",
+    "transliteration": "vau",
+    "description": "வ + ஔ"
+  },
+  "va_204": {
+    "modern_tamil": "ழா",
+    "category": "uyirmei",
+    "base_consonant": "ழ",
+    "vowel_mark": "ஆ",
+    "transliteration": "zhaa",
+    "description": "ழ + ஆ"
+  },
+  "va_205": {
+    "modern_tamil": "ழி",
+    "category": "uyirmei",
+    "base_consonant": "ழ",
+    "vowel_mark": "இ",
+    "transliteration": "zhi",
+    "description": "ழ + இ"
+  },
+  "va_206": {
+    "modern_tamil": "ழீ",
+    "category": "uyirmei",
+    "base_consonant": "ழ",
+    "vowel_mark": "ஈ",
+    "transliteration": "zhii",
+    "description": "ழ + ஈ"
+  },
+  "va_207": {
+    "modern_tamil": "ழு",
+    "category": "uyirmei",
+    "base_consonant": "ழ",
+    "vowel_mark": "உ",
+    "transliteration": "zhu",
+    "description": "ழ + உ"
+  },
+  "va_208": {
+    "modern_tamil": "ழூ",
+    "category": "uyirmei",
+    "base_consonant": "ழ",
+    "vowel_mark": "ஊ",
+    "transliteration": "zhuu",
+    "description": "ழ + ஊ"
+  },
+  "va_209": {
+    "modern_tamil": "ழெ",
+    "category": "uyirmei",
+    "base_consonant": "ழ",
+    "vowel_mark": "எ",
+    "transliteration": "zhe",
+    "description": "ழ + எ"
+  },
+  "va_210": {
+    "modern_tamil": "ழே",
+    "category": "uyirmei",
+    "base_consonant": "ழ",
+    "vowel_mark": "ஏ",
+    "transliteration": "zhee",
+    "description": "ழ + ஏ"
+  },
+  "va_211": {
+    "modern_tamil": "ழை",
+    "category": "uyirmei",
+    "base_consonant": "ழ",
+    "vowel_mark": "ஐ",
+    "transliteration": "zhai",
+    "description": "ழ + ஐ"
+  },
+  "va_212": {
+    "modern_tamil": "ழொ",
+    "category": "uyirmei",
+    "base_consonant": "ழ",
+    "vowel_mark": "ஒ",
+    "transliteration": "zho",
+    "description": "ழ + ஒ"
+  },
+  "va_213": {
+    "modern_tamil": "ழோ",
+    "category": "uyirmei",
+    "base_consonant": "ழ",
+    "vowel_mark": "ஓ",
+    "transliteration": "zhoo",
+    "description": "ழ + ஓ"
+  },
+  "va_214": {
+    "modern_tamil": "ழௌ",
+    "category": "uyirmei",
+    "base_consonant": "ழ",
+    "vowel_mark": "ஔ",
+    "transliteration": "zhau",
+    "description": "ழ + ஔ"
+  },
+  "va_215": {
+    "modern_tamil": "ளா",
+    "category": "uyirmei",
+    "base_consonant": "ள",
+    "vowel_mark": "ஆ",
+    "transliteration": "laa",
+    "description": "ள + ஆ"
+  },
+  "va_216": {
+    "modern_tamil": "ளி",
+    "category": "uyirmei",
+    "base_consonant": "ள",
+    "vowel_mark": "இ",
+    "transliteration": "li",
+    "description": "ள + இ"
+  },
+  "va_217": {
+    "modern_tamil": "ளீ",
+    "category": "uyirmei",
+    "base_consonant": "ள",
+    "vowel_mark": "ஈ",
+    "transliteration": "lii",
+    "description": "ள + ஈ"
+  },
+  "va_218": {
+    "modern_tamil": "ளு",
+    "category": "uyirmei",
+    "base_consonant": "ள",
+    "vowel_mark": "உ",
+    "transliteration": "lu",
+    "description": "ள + உ"
+  },
+  "va_219": {
+    "modern_tamil": "ளூ",
+    "category": "uyirmei",
+    "base_consonant": "ள",
+    "vowel_mark": "ஊ",
+    "transliteration": "luu",
+    "description": "ள + ஊ"
+  },
+  "va_220": {
+    "modern_tamil": "ளெ",
+    "category": "uyirmei",
+    "base_consonant": "ள",
+    "vowel_mark": "எ",
+    "transliteration": "le",
+    "description": "ள + எ"
+  },
+  "va_221": {
+    "modern_tamil": "ளே",
+    "category": "uyirmei",
+    "base_consonant": "ள",
+    "vowel_mark": "ஏ",
+    "transliteration": "lee",
+    "description": "ள + ஏ"
+  },
+  "va_222": {
+    "modern_tamil": "ளை",
+    "category": "uyirmei",
+    "base_consonant": "ள",
+    "vowel_mark": "ஐ",
+    "transliteration": "lai",
+    "description": "ள + ஐ"
+  },
+  "va_223": {
+    "modern_tamil": "ளொ",
+    "category": "uyirmei",
+    "base_consonant": "ள",
+    "vowel_mark": "ஒ",
+    "transliteration": "lo",
+    "description": "ள + ஒ"
+  },
+  "va_224": {
+    "modern_tamil": "ளோ",
+    "category": "uyirmei",
+    "base_consonant": "ள",
+    "vowel_mark": "ஓ",
+    "transliteration": "loo",
+    "description": "ள + ஓ"
+  },
+  "va_225": {
+    "modern_tamil": "ளௌ",
+    "category": "uyirmei",
+    "base_consonant": "ள",
+    "vowel_mark": "ஔ",
+    "transliteration": "lau",
+    "description": "ள + ஔ"
+  },
+  "va_226": {
+    "modern_tamil": "றா",
+    "category": "uyirmei",
+    "base_consonant": "ற",
+    "vowel_mark": "ஆ",
+    "transliteration": "raa",
+    "description": "ற + ஆ"
+  },
+  "va_227": {
+    "modern_tamil": "றி",
+    "category": "uyirmei",
+    "base_consonant": "ற",
+    "vowel_mark": "இ",
+    "transliteration": "ri",
+    "description": "ற + இ"
+  },
+  "va_228": {
+    "modern_tamil": "றீ",
+    "category": "uyirmei",
+    "base_consonant": "ற",
+    "vowel_mark": "ஈ",
+    "transliteration": "rii",
+    "description": "ற + ஈ"
+  },
+  "va_229": {
+    "modern_tamil": "று",
+    "category": "uyirmei",
+    "base_consonant": "ற",
+    "vowel_mark": "உ",
+    "transliteration": "ru",
+    "description": "ற + உ"
+  },
+  "va_230": {
+    "modern_tamil": "றூ",
+    "category": "uyirmei",
+    "base_consonant": "ற",
+    "vowel_mark": "ஊ",
+    "transliteration": "ruu",
+    "description": "ற + ஊ"
+  },
+  "va_231": {
+    "modern_tamil": "றெ",
+    "category": "uyirmei",
+    "base_consonant": "ற",
+    "vowel_mark": "எ",
+    "transliteration": "re",
+    "description": "ற + எ"
+  },
+  "va_232": {
+    "modern_tamil": "றே",
+    "category": "uyirmei",
+    "base_consonant": "ற",
+    "vowel_mark": "ஏ",
+    "transliteration": "ree",
+    "description": "ற + ஏ"
+  },
+  "va_233": {
+    "modern_tamil": "றை",
+    "category": "uyirmei",
+    "base_consonant": "ற",
+    "vowel_mark": "ஐ",
+    "transliteration": "rai",
+    "description": "ற + ஐ"
+  },
+  "va_234": {
+    "modern_tamil": "றொ",
+    "category": "uyirmei",
+    "base_consonant": "ற",
+    "vowel_mark": "ஒ",
+    "transliteration": "ro",
+    "description": "ற + ஒ"
+  },
+  "va_235": {
+    "modern_tamil": "றோ",
+    "category": "uyirmei",
+    "base_consonant": "ற",
+    "vowel_mark": "ஓ",
+    "transliteration": "roo",
+    "description": "ற + ஓ"
+  },
+  "va_236": {
+    "modern_tamil": "றௌ",
+    "category": "uyirmei",
+    "base_consonant": "ற",
+    "vowel_mark": "ஔ",
+    "transliteration": "rau",
+    "description": "ற + ஔ"
+  },
+  "va_237": {
+    "modern_tamil": "னா",
+    "category": "uyirmei",
+    "base_consonant": "ன",
+    "vowel_mark": "ஆ",
+    "transliteration": "naa",
+    "description": "ன + ஆ"
+  },
+  "va_238": {
+    "modern_tamil": "னி",
+    "category": "uyirmei",
+    "base_consonant": "ன",
+    "vowel_mark": "இ",
+    "transliteration": "ni",
+    "description": "ன + இ"
+  },
+  "va_239": {
+    "modern_tamil": "னீ",
+    "category": "uyirmei",
+    "base_consonant": "ன",
+    "vowel_mark": "ஈ",
+    "transliteration": "nii",
+    "description": "ன + ஈ"
+  },
+  "va_240": {
+    "modern_tamil": "னு",
+    "category": "uyirmei",
+    "base_consonant": "ன",
+    "vowel_mark": "உ",
+    "transliteration": "nu",
+    "description": "ன + உ"
+  },
+  "va_241": {
+    "modern_tamil": "னூ",
+    "category": "uyirmei",
+    "base_consonant": "ன",
+    "vowel_mark": "ஊ",
+    "transliteration": "nuu",
+    "description": "ன + ஊ"
+  },
+  "va_242": {
+    "modern_tamil": "னெ",
+    "category": "uyirmei",
+    "base_consonant": "ன",
+    "vowel_mark": "எ",
+    "transliteration": "ne",
+    "description": "ன + எ"
+  },
+  "va_243": {
+    "modern_tamil": "னே",
+    "category": "uyirmei",
+    "base_consonant": "ன",
+    "vowel_mark": "ஏ",
+    "transliteration": "nee",
+    "description": "ன + ஏ"
+  },
+  "va_244": {
+    "modern_tamil": "னை",
+    "category": "uyirmei",
+    "base_consonant": "ன",
+    "vowel_mark": "ஐ",
+    "transliteration": "nai",
+    "description": "ன + ஐ"
+  },
+  "va_245": {
+    "modern_tamil": "னொ",
+    "category": "uyirmei",
+    "base_consonant": "ன",
+    "vowel_mark": "ஒ",
+    "transliteration": "no",
+    "description": "ன + ஒ"
+  },
+  "va_246": {
+    "modern_tamil": "னோ",
+    "category": "uyirmei",
+    "base_consonant": "ன",
+    "vowel_mark": "ஓ",
+    "transliteration": "noo",
+    "description": "ன + ஓ"
+  },
+  "va_247": {
+    "modern_tamil": "னௌ",
+    "category": "uyirmei",
+    "base_consonant": "ன",
+    "vowel_mark": "ஔ",
+    "transliteration": "nau",
+    "description": "ன + ஔ"
+  }
+}

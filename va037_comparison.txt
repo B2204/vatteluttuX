@@ -1,0 +1,17 @@
+============================================================
+va_037 Character Check
+============================================================
+
+va_037 Information:
+  Tamil Character: ண
+  Category: Consonant
+  Transliteration: na
+
+Image Recognition Result:
+  Detected Character: மா
+  Label: va_149
+  Confidence: 97.5%
+
+✗ NO MATCH
+  Expected: va_037 (ண)
+  Got: va_149 (மா)
